@@ -1,0 +1,6 @@
+{
+  "name": "Nieruchomości na Litwie",
+  "description": "Luksusowe i prestiżowe nieruchomości na Litwie dla polskich inwestorów. Działki, domy, mieszkania oraz grunty z pełnym wsparciem prawnym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
